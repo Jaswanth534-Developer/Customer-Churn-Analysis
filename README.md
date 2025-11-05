@@ -55,7 +55,7 @@ To analyze churn patterns and provide actionable insights that help improve **cu
 ## 👤 Created By
 
 **Jaswanth Reddy**
-📧 [jaswanthreddy@example.com](mailto:jaswanthreddy@example.com)
+📧 [jaswanthreddy@example.com](kjaswanthreddy534@gmail.com)
 💼 [LinkedIn Profile](https://www.linkedin.com/in/jaswanth-kumar-reddy-k-6a45122a2)
 🧰 Tools Used: Power BI | SQL | DAX
 
